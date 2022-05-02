@@ -15,7 +15,7 @@ Link to game: https://get-me-out-of-here-game.herokuapp.com/
 - Find the key to be able to escape the room
 - You have three minutes to escape or the game ends
 
-![Image of game](./public/game_screenshots/Game_play_03.png)
+
 
 # Tech
 
@@ -51,14 +51,3 @@ User Stories
   I want to be able to use the key and open the door.
   ```
   
-![Door_Diagram](./public/click_door.png)
-
-![MVP](./public/MVP.png)
-
-</details>
-  
-# Screenshots of gameplay
-
-![Image_01](./public/game_screenshots/Enter_game.png)
-![Image_02](./public/game_screenshots/Game_play_01.png)
-![Image_03](./public/game_screenshots/Game_play_05.png)
